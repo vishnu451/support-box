@@ -70,7 +70,8 @@ button.btn.btn-cards-1{
 div.cards-1{
     width: 100%;
     max-width: 250px;
-    height: 550px;
+    /* height: 550px; */
+    height: auto;
     margin: 40px auto;
     padding: 20px;
     background-color: #fff;
@@ -85,6 +86,14 @@ div.featured-card-1-title h1{
 }
 div.cards-1-title h3{
     color: #16325c;
+}
+div.cards-1-para p{
+    text-align: left;
+    font-weight: 600;
+    margin: 25px 0 0 0;
+}
+.fa-check-circle{
+    color: #6dc742;
 }
 /*featured cards 2 section starts here*/
 div.featured-card-2{
