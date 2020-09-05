@@ -122,6 +122,11 @@ div.featured-card-2-footer h1{
     color: #16325c;
     font-weight: 600;
 }
+img.cards-2-img{
+    width: 100%;
+    max-width: 300px;
+    height: 300px;
+}
 /*product features section starts here*/
 section.product-features-section{
     background-color: #0093dd;
