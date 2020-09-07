@@ -71,7 +71,7 @@ div.cards-1{
     width: 100%;
     max-width: 250px;
     /* height: 550px; */
-    height: auto;
+    min-height: 720px;
     margin: 40px auto;
     padding: 20px;
     background-color: #fff;
