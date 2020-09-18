@@ -70,8 +70,8 @@ button.btn.btn-cards-1{
 div.cards-1{
     width: 100%;
     max-width: 250px;
-    /* height: 550px; */
-    min-height: 720px;
+    height: 480px;
+    /* min-height: 720px; */
     margin: 40px auto;
     padding: 20px;
     background-color: #fff;
@@ -89,8 +89,8 @@ div.cards-1-title h3{
 }
 div.cards-1-para p{
     text-align: left;
-    font-weight: 600;
-    margin: 25px 0 0 0;
+    /* font-weight: 600;
+    margin: 25px 0 0 0; */
 }
 .fa-check-circle{
     color: #6dc742;
